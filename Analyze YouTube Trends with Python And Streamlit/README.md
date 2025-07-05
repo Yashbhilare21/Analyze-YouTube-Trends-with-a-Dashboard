@@ -58,8 +58,8 @@ youtube_dashboard/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/youtube-trends-dashboard.git
-cd youtube-trends-dashboard
+git clone https://github.com/Yashbhilare21/Analyze-YouTube-Trends-with-a-Dashboard.git
+cd "Analyze-YouTube-Trends-with-a-Dashboard/Analyze YouTube Trends with Python And Streamlit"
 ```
 
 ### 2️⃣ Create and Activate a Virtual Environment
